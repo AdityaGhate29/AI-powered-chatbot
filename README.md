@@ -68,7 +68,7 @@ ai_chatbot/
 
 ### 1. Clone the Repository
 bash
-git clone https://github.com/your-username/ai-powered-chatbot.git
+git clone https://github.com/AdityaGhate29/AI-powered-chatbot
 cd ai-powered-chatbot
 
 
@@ -109,7 +109,7 @@ Developed a user-friendly web-based chatbot interface
 
 Gained experience debugging and structuring AI applications
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 Add fallback responses for unknown queries
 
